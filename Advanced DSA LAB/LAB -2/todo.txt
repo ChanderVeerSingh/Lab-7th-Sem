@@ -1,0 +1,2 @@
+Given a binary search tree(BST), write its in order traversal
+Implement a heap, min and max
